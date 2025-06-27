@@ -2,7 +2,7 @@
 
 This project identifies credit default risk using Python, SQL, logistic regression, and decision trees. It involved mining borrower behavior and economic indicators to uncover risk drivers. Interactive Tableau dashboards enabled real-time monitoring and data-driven credit policy decisions.
 
-
+![image alt](https://github.com/AnandGKM/-Financial-Risk-Modeling/blob/2e6a2a1333948780caafdd1022c39098b4e657fd/Credit%20Analysis.png)
 
 This project, "Financial Risk Modeling & Visualization," conducted from October to December 2024, aimed to analyze borrower profiles and predict loan default likelihood using machine learning and statistical methods to support credit policy and proactive risk detection. Utilizing a dataset of 45,000 records from "Anand_Gopalakrishnamurthy_loan_data.xlsx," the analysis focused on demographics, credit factors, and loan status.
 
